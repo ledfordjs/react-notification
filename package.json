@@ -1,0 +1,22 @@
+{
+  "name": "react-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledfordjs/react-notification.git"
+  },
+  "author": "ledfordjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledfordjs/react-notification/issues"
+  },
+  "homepage": "https://github.com/ledfordjs/react-notification#readme",
+  "dependencies": {
+    "react": "^16.8.2"
+  }
+}
